@@ -1,7 +1,7 @@
 # GUI PDF OCR
 ![](https://img.shields.io/badge/Python-Tkinter-blue) ![](https://img.shields.io/badge/Python-PyTesseract-yellow)
 
-_**Currently, it scans only first page**_, I will update this later.
+_**Currently, it scans only first page**_, I will update this later to add functionality to include all pages.
 <hr>
 
 <img src="sample_gif.gif"/>
