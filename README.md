@@ -16,7 +16,7 @@ python gui_pdf_ocr.py
 
 | Buttons        | Commands                       |
 |----------------|------------------------------- |
-| `Open`         | To load pdf                    |
-| `Clear`        | To clear currently loaded pdf  |
-| `Resize Image` | To rescale image if distorted  |
-| `OCR`          | To extract texts from pdf page |
+| `Open`         | load pdf                       |
+| `Clear`        | clear currently loaded pdf     |
+| `Resize Image` | rescale image if distorted     |
+| `OCR`          | extract texts from pdf page    |
