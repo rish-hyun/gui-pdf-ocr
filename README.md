@@ -1,5 +1,6 @@
 # GUI PDF OCR
-![](https://img.shields.io/badge/Python-Tkinter-blue) ![](https://img.shields.io/badge/Python-PyTesseract-yellow)
+[![](https://img.shields.io/badge/Python-Tkinter-blue)](https://docs.python.org/3/library/tkinter.html)
+[![](https://img.shields.io/badge/Python-PyTesseract-yellow)](https://pypi.org/project/pytesseract/)
 
 _**Currently, it scans only first page**_, I will update this later to add functionality to include all pages.
 <hr>
