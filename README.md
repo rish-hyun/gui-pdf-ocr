@@ -5,7 +5,7 @@
 _**Currently, it scans only first page**_, I will update this later to add functionality to include all pages.
 <hr>
 
-<img src="https://github.com/rish-hyun/gui-pdf-ocr/blob/main/sample_gif.gif"/>
+<img src="sample_gif.gif"/>
 
 <hr>
 
